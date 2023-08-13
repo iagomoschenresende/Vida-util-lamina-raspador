@@ -1,4 +1,4 @@
-# Vida-util-lamina-raspador
+# Vida útil de uma lâmina de um raspador
 # Explicação do Funcionamento do Código JavaScript
 
 O código JavaScript a seguir, presente na função `previsaoLamina()`, é projetado para calcular e prever a vida útil de uma lâmina com base em diversos parâmetros fornecidos pelo usuário. A função avalia o tamanho atual da lâmina, as horas desejadas de operação, e o total de horas que a lâmina já foi utilizada, a fim de determinar se a lâmina pode ser utilizada por mais algum tempo ou se precisa ser substituída.
